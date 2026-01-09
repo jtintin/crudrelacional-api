@@ -1,14 +1,15 @@
-CRUD Relacional API en PHP
+#CRUD Relacional API en PHP
 
 API RESTful en PHP con PDO y MySQL.
 Permite crear, leer, actualizar y eliminar productos con soporte para imágenes.
 Fácil de integrar y extender en proyectos propios.
-⚙️ Instalación rápida
+##⚙️ Instalación rápida
 
-Clona el repositorio:
+###Clona el repositorio:
+```bash
 git clone https://github.com/tuusuario/crudrelacional-api.git
 cd crudrelacional-api
-
+```
 Configura tu base de datos en .env.php usando .env.example.php como referencia.
 
 Accede directamente a la API desde tu navegador:
